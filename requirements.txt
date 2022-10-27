@@ -1,2 +1,5 @@
-#requirements.txt
-snowflake-connector-python
+matplotlib
+streamlit
+numpy==1.18.5
+pandas
+seaborn==0.11.0
